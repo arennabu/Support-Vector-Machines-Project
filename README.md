@@ -8,9 +8,15 @@ For this project, the famous [Iris flower data set] will be used(http://en.wikip
 ### Install
 
 `import pandas as pd`
+
 `import matplotlib.pyplot as plt`
+
 `import seaborn as sns`
+
 `from sklearn.model_selection import `
+
 `from sklearn.svm import SVC`
+
 `from sklearn.metrics import classification_report,confusion_matrix`
+
 `from sklearn.model_selection import GridSearchCV`
